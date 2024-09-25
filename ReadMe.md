@@ -121,5 +121,3 @@ This system automatically manages the lifecycle of a web application hosted on E
 10. Create SNS Topic for Alert
 11. Subscribe to SNS Topic
 12. Publish Message to SNS Topic
-
-
