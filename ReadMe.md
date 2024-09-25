@@ -75,7 +75,7 @@ This system automatically manages the lifecycle of a web application hosted on E
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/aws-webapp-infrastructure.git
+   git clone https://github.com/MrSRE/Monitoring-Scalling-Automation.git
    cd aws-webapp-infrastructure
    ```
 
