@@ -1,12 +1,12 @@
-# AWS Web Application Infrastructure Project
+### AWS Web Application Infrastructure Project
 
 This project automates the deployment and management of a scalable web application infrastructure on AWS using Python and boto3.
 
-## Project Overview
+### Project Overview
 
 This system automatically manages the lifecycle of a web application hosted on EC2 instances, monitors its health, and scales resources based on traffic. It also notifies administrators about infrastructure health and scaling events.
 
-## Components
+### Components
 
 1. Web Application Deployment
 2. Load Balancing with ELB
@@ -15,7 +15,7 @@ This system automatically manages the lifecycle of a web application hosted on E
 5. Infrastructure Automation
 6. Dynamic Content Handling (Optional Enhancement)
 
-## Step-by-Step Flow
+### Step-by-Step Flow
 
 1. **Setup and Configuration**
    - Install required libraries (boto3, etc.)
@@ -71,7 +71,7 @@ This system automatically manages the lifecycle of a web application hosted on E
     - Update README with setup and usage instructions
     - Document any configuration parameters or environment variables
 
-## Setup and Usage
+### Setup and Usage
 
 1. Clone this repository:
    ```
