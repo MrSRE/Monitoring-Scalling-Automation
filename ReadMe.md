@@ -108,7 +108,7 @@ This system automatically manages the lifecycle of a web application hosted on E
 3. Once script completely executed all resources id will store in resources.json file
 4. By json and delete.py file delete all resources.
 
-#### app.py file explaination
+#### Main.py file explaination
 1. creating s3 bucket
 2. creating security group
 3. creating ec2 instance and install nginx 
