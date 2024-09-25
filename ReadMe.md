@@ -89,16 +89,16 @@ This system automatically manages the lifecycle of a web application hosted on E
    aws configure
    ```
 
-4. Update the configuration file `config.yaml` with your specific settings.
+4. Update the configuration file `values.yaml` with your specific settings.
 
 5. Run the main deployment script:
    ```
-   python deploy_infrastructure.py
+   python main.py
    ```
 
 6. To tear down the infrastructure:
    ```
-   python teardown_infrastructure.py
+   python delete.py
    ```
 
 #### Steps
