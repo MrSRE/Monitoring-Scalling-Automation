@@ -1,0 +1,21 @@
+## ASG Values
+auto_scaling_group_name: my-asg1
+launch_configuration_name: my-lc1
+launch_template_name: mylc
+min_size: 1
+max_size: 2
+desired_capacity: 1
+image_id: ami-05134c8ef96964280
+instance_type: t2.micro
+subnet_id: ['subnet-0f30c30418def6379', 'subnet-03ca36de9a927fe8e']
+security_group_name: WebAppSecurityGroup1
+bucket_name: demo1234345678
+vpc_id: vpc-0321f38a7b594180d
+loadbalancer_name: webapp-lb1
+lb_targetgroup: webapp-tg1
+ec2_name: webserver1
+sns_topic_name: demo-sns
+protocol: email
+email_id: lakshminarayana.jonnala@gmail.com
+subject: 'Test Alert'
+message: 'This is a test alert for health issues'
